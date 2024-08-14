@@ -2,7 +2,7 @@
 title: "Zero-Shot Program Representation Learning"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper1
 date: 2022-04-18
 venue: '30th International Conference on Program Comprehension (ICPC ’22)'
 paperurl: 'https://arxiv.org/pdf/2204.08360'

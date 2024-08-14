@@ -2,7 +2,7 @@
 title: "Self-supervised query reformulation for code search"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper2
 date: 2023-11-30
 venue: 'Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering'
 paperurl: 'https://arxiv.org/pdf/2307.00267'
