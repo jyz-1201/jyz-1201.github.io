@@ -9,6 +9,4 @@ slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2204.08360'
 citation: 'Cui, Nan, Yuze Jiang, Xiaodong Gu, and Beijun Shen. "Zero-shot program representation learning." In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pp. 60-70. 2022.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
-
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+[Just-in-Time Software Defect Prediction Via Bi-Modal Change Representation Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AsvTdRIAAAAJ&citation_for_view=AsvTdRIAAAAJ:9yKSN-GCB0IC)
