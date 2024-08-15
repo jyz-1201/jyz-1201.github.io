@@ -16,7 +16,9 @@ I am always looking for opportunities to collaborate. The best way to reach me i
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=AsvTdRIAAAAJ&hl=en).
 
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
+<ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ### [Just-in-Time Software Defect Prediction Via Bi-Modal Change Representation Learning](https://jyz-1201.github.io/publication/paper3)
 
