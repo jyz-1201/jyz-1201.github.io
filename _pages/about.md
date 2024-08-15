@@ -16,21 +16,21 @@ I am always looking for opportunities to collaborate. The best way to reach me i
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=AsvTdRIAAAAJ&hl=en).
 
-#### [Just-in-Time Software Defect Prediction Via Bi-Modal Change Representation Learning](https://jyz-1201.github.io/publication/paper3)
+### [Just-in-Time Software Defect Prediction Via Bi-Modal Change Representation Learning](https://jyz-1201.github.io/publication/paper3)
 
 *The Journal of Systems & Software. In revision* , 2023
 
 Jiang, Yuze, Beijun Shen, and Xiaodong Gu. "Just-in-Time Software Defect Prediction Via Bi-Modal Change Representation Learning." Available at SSRN 4853430.
 [Download Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4853430)
 
-#### [Self-supervised query reformulation for code search](https://jyz-1201.github.io/publication/paper2)
+### [Self-supervised query reformulation for code search](https://jyz-1201.github.io/publication/paper2)
 
 *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering* , 2023
 
 Mao, Yuetian, Chengcheng Wan, Yuze Jiang, and Xiaodong Gu. "Self-supervised query reformulation for code search." In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 363-374. 2023.
 [Download Paper](https://arxiv.org/pdf/2307.00267)
 
-#### [Zero-Shot Program Representation Learning](https://jyz-1201.github.io/publication/paper1)
+### [Zero-Shot Program Representation Learning](https://jyz-1201.github.io/publication/paper1)
 
 *30th International Conference on Program Comprehension (ICPC ’22)* , 2022
 
