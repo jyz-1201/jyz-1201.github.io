@@ -40,3 +40,7 @@ Mao, Yuetian, Chengcheng Wan, Yuze Jiang, and Xiaodong Gu. "Self-supervised quer
 
 Cui, Nan, Yuze Jiang, Xiaodong Gu, and Beijun Shen. "Zero-shot program representation learning." In Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension, pp. 60-70. 2022.
 [Download Paper](https://arxiv.org/pdf/2204.08360)
+
+## Honors and Awards
+
+<ul>{% include honors.md %} </ul>
