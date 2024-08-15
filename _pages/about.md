@@ -43,4 +43,5 @@ Cui, Nan, Yuze Jiang, Xiaodong Gu, and Beijun Shen. "Zero-shot program represent
 
 ## Honors and Awards
 
-<ul>{% include honors.md %} </ul>
+* Outstanding Graduate (top 5% of Shanghai Jiao Tong University), 2023.
+* Silver Medal for NOI, China's National Olympiad in Informatics (top 0.6% by CCF, China Computer Federation), 2018.
