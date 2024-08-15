@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuze Jiang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuze Jiang"
 description              : &description "Bookmark this to keep an eye on my project updates!"
 url                      : https://jyz-1201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : # "Earth"
   employer         : "The Ohio State University"
   uri              : # URL
-  email            : "jiang.2896@osu.edu" 
+  email            : # "jiang.2896@osu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
