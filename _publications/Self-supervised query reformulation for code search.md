@@ -1,5 +1,5 @@
 ---
-title: "Self-supervised query reformulation for code search"
+title: "Self-supervised Query Reformulation for Code Search"
 collection: publications
 category: conferences
 permalink: /publication/paper2
