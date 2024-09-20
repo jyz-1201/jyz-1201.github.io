@@ -12,7 +12,7 @@ I am broadly interested in large language models (LLMs) for natural and programm
 
 I am always looking for opportunities to collaborate. The best way to reach me is via email: jiang (dot) 2896 (at) osu (dot) edu.
 
-## Selected Publications
+## Publications
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=AsvTdRIAAAAJ&hl=en).
 
